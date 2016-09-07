@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="add">Добавление</string>
+    <string name="edit">Редактирование</string>
+    <string name="price">Цена</string>
+    <string name="amount">Количество</string>
+    <string name="name">Наименование</string>
+    <string name="products">Товары</string>
+    <string name="submit">Подтвердить изменения</string>
+    <string name="eror">Введены некорректные данные</string>
+</resources>
